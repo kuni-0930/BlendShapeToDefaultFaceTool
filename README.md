@@ -1,0 +1,2 @@
+# BlendShapeToDefaultFaceTool
+Unityのアバター編集で顔のBlendShapeの変更をMeshに上書きしてデフォルト顔にします。
